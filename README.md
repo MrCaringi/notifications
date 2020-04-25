@@ -1,8 +1,8 @@
-# notifications
+# Notifications
 Bash Scripts for notifications
 
 
-
+# TELEGRAM NOTIFICATION SCRIPT
 # How to use?
 
 The formula is: <script> <title> <line 1> <line 2>
