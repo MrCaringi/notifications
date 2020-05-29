@@ -14,7 +14,7 @@
 ###############################
 
 ## credenciales del bot
-#	El Archivo debe contener estas variables
+#	El Archivo "telegram_notification.config" debe contener estas variables
 #
 #	APIKEY	del bot
 #	CHATID	del grupo o usuario
