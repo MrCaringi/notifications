@@ -30,7 +30,7 @@ hostname=`hostname`
 curl -v -4 -F \
   "chat_id=$CHATID" \
   -F document=@${3} \
-  -F caption="${1}"$'\n'"        from: ${hostname}"$'\n'"${2}" \
+  -F caption="${1}"$'\n'"        from: #${hostname}"$'\n'"${2}" \
   https://api.telegram.org/bot$APIKEY/sendDocument
 
 exit 0
